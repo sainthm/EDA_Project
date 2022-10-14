@@ -1,3 +1,5 @@
+#gitignore
+
 .DS_Store
 
 *.pem
@@ -5,3 +7,4 @@
 __pycache__
 
 .ipynb_checkpoints
+
