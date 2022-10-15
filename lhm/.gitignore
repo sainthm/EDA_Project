@@ -5,4 +5,7 @@
 *.xml
 *.csv
 *.xls
+
+.ipynb_checkpoints
+
 EDA_file/*.xls
