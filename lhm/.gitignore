@@ -3,7 +3,7 @@
 ###########
 
 *.xml
-*.csv
+#*.csv
 *.xls
 
 .ipynb_checkpoints
